@@ -1,5 +1,7 @@
 파일 확장자 차단 과제
 
+<img src='https://github.com/delllay/fileBlock/blob/a813ef3ffe59003f6b2c919ff70c8e1a2a8fbbd3/img.jpg'>
+
 고려한 점
 
 1. 확장자 중복 체크를 고려하였습니다. <br>
